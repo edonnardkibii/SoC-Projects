@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Jan 22 23:59:54 2021
+# Process ID: 6412
+# Current directory: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/DSP_Hardware
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7848 C:\Users\kibii\OneDrive\Studienkolleg\Vivado\DSP_Hardware\DSP_Hardware.xpr
+# Log file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/DSP_Hardware/vivado.log
+# Journal file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/DSP_Hardware\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kibii/OneDrive/Studienkolleg/Vivado/DSP_Hardware/DSP_Hardware.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/kibii/OneDrive/Studienkolleg/Vivado/DSP_Testbench/DSP_Testbench.srcs'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/kibii/OneDrive/Studienkolleg/Vivado/DA_Converter/DA_Converter.srcs'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/kibii/OneDrive/Studienkolleg/Vivado/AD_Converter/AD_Converter.srcs'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/kibii/OneDrive/Studienkolleg/Vivado/Vector_Length_Mod/Vector_Length_Mod.srcs'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:29 ; elapsed = 00:00:20 . Memory (MB): peak = 910.121 ; gain = 162.391
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jan 23 00:02:49 2021...

@@ -1,0 +1,39 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -y -390 -defaultsOSRD
+preplace port adc_clk_p_i -pg 1 -y -110 -defaultsOSRD
+preplace port dac_rst_o -pg 1 -y -110 -defaultsOSRD
+preplace port dac_clk_o -pg 1 -y -130 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y -370 -defaultsOSRD
+preplace port dac_sel_o -pg 1 -y -150 -defaultsOSRD
+preplace port dac_wrt_o -pg 1 -y -170 -defaultsOSRD
+preplace port adc_clk_n_i -pg 1 -y -90 -defaultsOSRD
+preplace portBus adc_dat_b_i -pg 1 -y -130 -defaultsOSRD
+preplace portBus adc_dat_a_i -pg 1 -y -150 -defaultsOSRD
+preplace portBus dac_dat_o -pg 1 -y -190 -defaultsOSRD
+preplace inst my_DA_Converter_0 -pg 1 -lvl 2 -y -150 -defaultsOSRD
+preplace inst my_AD_Converter_0 -pg 1 -lvl 1 -y -120 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -y -370 -defaultsOSRD
+preplace netloc processing_system7_0_DDR 1 1 2 N -390 N
+preplace netloc my_DA_Converter_0_dac_rst_o 1 2 1 N
+preplace netloc my_DA_Converter_0_dac_dat_o 1 2 1 N
+preplace netloc adc_dat_a_i_0_1 1 0 1 NJ
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 1 220
+preplace netloc my_DA_Converter_0_dac_clk_o 1 2 1 N
+preplace netloc my_AD_Converter_0_adc_dat_a 1 1 1 N
+preplace netloc my_AD_Converter_0_adc_dat_b 1 1 1 N
+preplace netloc processing_system7_0_FIXED_IO 1 1 2 N -370 N
+preplace netloc my_AD_Converter_0_adc_clk 1 1 1 220
+preplace netloc my_DA_Converter_0_dac_sel_o 1 2 1 N
+preplace netloc adc_dat_b_i_0_1 1 0 1 NJ
+preplace netloc adc_clk_p_i_0_1 1 0 1 NJ
+preplace netloc adc_clk_n_i_0_1 1 0 1 NJ
+preplace netloc my_DA_Converter_0_dac_wrt_o 1 2 1 N
+levelinfo -pg 1 -150 70 420 890 -top -550 -bot 200
+",
+}
+{
+   da_ps7_cnt: "1",
+}

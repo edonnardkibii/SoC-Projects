@@ -1,0 +1,44 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -y -620 -defaultsOSRD
+preplace port adc_clk_p_i -pg 1 -y -370 -defaultsOSRD
+preplace port dac_rst_o -pg 1 -y -210 -defaultsOSRD
+preplace port dac_clk_o -pg 1 -y -230 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y -600 -defaultsOSRD
+preplace port dac_sel_o -pg 1 -y -250 -defaultsOSRD
+preplace port dac_wrt_o -pg 1 -y -270 -defaultsOSRD
+preplace port adc_clk_n_i -pg 1 -y -350 -defaultsOSRD
+preplace portBus adc_dat_b_i -pg 1 -y -390 -defaultsOSRD
+preplace portBus exp_n -pg 1 -y -400 -defaultsOSRD
+preplace portBus exp_p -pg 1 -y -240 -defaultsOSRD
+preplace portBus adc_dat_a_i -pg 1 -y -410 -defaultsOSRD
+preplace portBus dac_dat_o -pg 1 -y -290 -defaultsOSRD
+preplace inst my_DA_Converter_0 -pg 1 -lvl 2 -y -250 -defaultsOSRD
+preplace inst my_Vector_Length_Mod_0 -pg 1 -lvl 1 -y -240 -defaultsOSRD
+preplace inst my_Vector_Length_Mod_1 -pg 1 -lvl 2 -y -400 -defaultsOSRD
+preplace inst my_AD_Converter_0 -pg 1 -lvl 1 -y -380 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -y -600 -defaultsOSRD
+preplace netloc processing_system7_0_DDR 1 1 2 NJ -620 NJ
+preplace netloc my_DA_Converter_0_dac_rst_o 1 2 1 NJ
+preplace netloc my_Vector_Length_Mod_1_output_vector 1 2 1 N
+preplace netloc adc_dat_a_i_0_1 1 0 1 NJ
+preplace netloc my_DA_Converter_0_dac_dat_o 1 2 1 NJ
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 1 480
+preplace netloc my_DA_Converter_0_dac_clk_o 1 2 1 NJ
+preplace netloc my_AD_Converter_0_adc_dat_a 1 1 1 N
+preplace netloc my_AD_Converter_0_adc_dat_b 1 1 1 470
+preplace netloc processing_system7_0_FIXED_IO 1 1 2 NJ -600 NJ
+preplace netloc my_AD_Converter_0_adc_clk 1 1 1 460
+preplace netloc input_vector_0_1 1 0 1 N
+preplace netloc my_DA_Converter_0_dac_sel_o 1 2 1 NJ
+preplace netloc adc_dat_b_i_0_1 1 0 1 NJ
+preplace netloc adc_clk_p_i_0_1 1 0 1 NJ
+preplace netloc adc_clk_n_i_0_1 1 0 1 NJ
+preplace netloc my_Vector_Length_Mod_0_output_vector 1 1 1 N
+preplace netloc my_DA_Converter_0_dac_wrt_o 1 2 1 NJ
+levelinfo -pg 1 -50 310 690 1140 -top -710 -bot 120
+",
+}
+

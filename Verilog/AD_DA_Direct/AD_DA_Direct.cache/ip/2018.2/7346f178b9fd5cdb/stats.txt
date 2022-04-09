@@ -1,0 +1,4 @@
+NumberHits:4
+Timestamp: Tue Jan 26 10:15:20 UTC 2021
+VLNV: xilinx.com:user:my_DA_Converter:1.0
+SynthRuntime: 46

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="my_AD_DA_Direct_processing_system7_0_0_synth_1" LaunchDir="C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AD_DA_Direct/AD_DA_Direct.runs/my_AD_DA_Direct_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="my_AD_DA_Direct_my_DA_Converter_0_0_synth_1" LaunchDir="C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AD_DA_Direct/AD_DA_Direct.runs/my_AD_DA_Direct_my_DA_Converter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="my_AD_DA_Direct_my_AD_Converter_0_0_synth_1" LaunchDir="C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AD_DA_Direct/AD_DA_Direct.runs/my_AD_DA_Direct_my_AD_Converter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AD_DA_Direct/AD_DA_Direct.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="my_AD_DA_Direct_processing_system7_0_0_synth_1"/>
+		<Parent Id="my_AD_DA_Direct_my_DA_Converter_0_0_synth_1"/>
+		<Parent Id="my_AD_DA_Direct_my_AD_Converter_0_0_synth_1"/>
+	</Run>
+</Runs>
+

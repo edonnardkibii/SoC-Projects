@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Wed Dec 09 14:28:00 UTC 2020
+VLNV: xilinx.com:user:my_AD_Converter:1.0
+SynthRuntime: 43

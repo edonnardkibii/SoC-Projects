@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="my_AD_DA_Direct_my_DA_Converter_0_0_synth_1" LaunchDir="C:/Users/James Kibii/OneDrive/Dokumente/Vivado/AD_DA_Direct/AD_DA_Direct.runs/my_AD_DA_Direct_my_DA_Converter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="my_AD_DA_Direct_my_AD_Converter_0_0_synth_1" LaunchDir="C:/Users/James Kibii/OneDrive/Dokumente/Vivado/AD_DA_Direct/AD_DA_Direct.runs/my_AD_DA_Direct_my_AD_Converter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="impl_1" LaunchDir="C:/Users/James Kibii/OneDrive/Dokumente/Vivado/AD_DA_Direct/AD_DA_Direct.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="route_design">
+		<Parent Id="my_AD_DA_Direct_my_DA_Converter_0_0_synth_1"/>
+		<Parent Id="my_AD_DA_Direct_my_AD_Converter_0_0_synth_1"/>
+	</Run>
+</Runs>
+

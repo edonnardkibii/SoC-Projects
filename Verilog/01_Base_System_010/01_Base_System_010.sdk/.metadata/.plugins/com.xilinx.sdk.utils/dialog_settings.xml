@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/HelloWorld/Debug" key="bootgen_files_selection"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/jtag_flash_fsbl/Debug" key="zynq_flash_files_selection"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/jtag_flash_fsbl/Debug" key="last_stored_selection"/>
+</section>

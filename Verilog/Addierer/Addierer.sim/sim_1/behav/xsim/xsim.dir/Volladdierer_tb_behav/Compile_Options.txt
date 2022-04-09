@@ -1,0 +1,1 @@
+-wto "2ce4bc399f4443ddb773d1c929abb584" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Volladdierer_tb_behav" "xil_defaultlib.Volladdierer_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

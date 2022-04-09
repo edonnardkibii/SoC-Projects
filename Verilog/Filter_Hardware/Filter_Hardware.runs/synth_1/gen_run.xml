@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1607543496">
+  <File Type="PA-TCL" Name="my_DSP_Hardware_wrapper.tcl"/>
+  <File Type="REPORTS-TCL" Name="my_DSP_Hardware_wrapper_reports.tcl"/>
+  <File Type="RDS-RDS" Name="my_DSP_Hardware_wrapper.vds"/>
+  <File Type="RDS-UTIL" Name="my_DSP_Hardware_wrapper_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="my_DSP_Hardware_wrapper_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="my_DSP_Hardware_wrapper.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/bd/my_DSP_Hardware/my_DSP_Hardware.bd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../DSP_Hardware/DSP_Hardware.srcs/sources_1/bd/my_DSP_Hardware/my_DSP_Hardware.bd"/>
+        <Attr Name="ImportTime" Val="1607523914"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/my_DSP_Hardware/hdl/my_DSP_Hardware_wrapper.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../DSP_Hardware/DSP_Hardware.srcs/sources_1/bd/my_DSP_Hardware/hdl/my_DSP_Hardware_wrapper.v"/>
+        <Attr Name="ImportTime" Val="1607524004"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="my_DSP_Hardware_wrapper"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Red_Pitaya.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../DSP_Hardware/DSP_Hardware.srcs/constrs_1/new/Red_Pitaya.xdc"/>
+        <Attr Name="ImportTime" Val="1607523489"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="my_DSP_Hardware_my_DA_Converter_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="my_DSP_Hardware_my_AD_Converter_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="my_DSP_Hardware_processing_system7_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="my_DSP_Hardware_my_Vector_Length_Mod_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="my_DSP_Hardware_my_Filter_0_0"/>
+</GenRun>

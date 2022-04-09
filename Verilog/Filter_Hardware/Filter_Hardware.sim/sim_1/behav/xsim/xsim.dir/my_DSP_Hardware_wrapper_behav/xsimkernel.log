@@ -1,0 +1,7 @@
+Running: xsim.dir/my_DSP_Hardware_wrapper_behav/xsimk.exe -simmode gui -wdb my_DSP_Hardware_wrapper_behav.wdb -simrunnum 0 -socket 50772
+Design successfully loaded
+Design Loading Memory Usage: 27752 KB (Peak: 27752 KB)
+Design Loading CPU Usage: 108 ms
+Simulation completed
+Simulation Memory Usage: 42928 KB (Peak: 42928 KB)
+Simulation CPU Usage: 234 ms

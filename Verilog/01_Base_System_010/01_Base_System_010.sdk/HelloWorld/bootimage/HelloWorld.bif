@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/zynq_fsbl/Debug/zynq_fsbl.elf
+	/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/top_hw_platform_2/top.bit
+	/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/HelloWorld/Debug/HelloWorld.elf
+}

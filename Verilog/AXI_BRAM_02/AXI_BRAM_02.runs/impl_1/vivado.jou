@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Dec 16 16:51:24 2020
+# Process ID: 7228
+# Current directory: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AXI_BRAM/AXI_BRAM.runs/impl_1
+# Command line: vivado.exe -log AXI_BRAM_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source AXI_BRAM_wrapper.tcl -notrace
+# Log file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AXI_BRAM/AXI_BRAM.runs/impl_1/AXI_BRAM_wrapper.vdi
+# Journal file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/AXI_BRAM/AXI_BRAM.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source AXI_BRAM_wrapper.tcl -notrace

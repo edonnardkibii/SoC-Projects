@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Sep 16 17:25:54 2019
+# Process ID: 5570
+# Current directory: /home/pabele/HTWG/Skripte/SoC/Labor_Vorlesung/02d_Block_Design_erzeugen/Vivado_Projekte/AD_DA_Exp/AD_DA_Exp.runs/my_AD_DA_Exp_processing_system7_0_0_synth_1
+# Command line: vivado -log my_AD_DA_Exp_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source my_AD_DA_Exp_processing_system7_0_0.tcl
+# Log file: /home/pabele/HTWG/Skripte/SoC/Labor_Vorlesung/02d_Block_Design_erzeugen/Vivado_Projekte/AD_DA_Exp/AD_DA_Exp.runs/my_AD_DA_Exp_processing_system7_0_0_synth_1/my_AD_DA_Exp_processing_system7_0_0.vds
+# Journal file: /home/pabele/HTWG/Skripte/SoC/Labor_Vorlesung/02d_Block_Design_erzeugen/Vivado_Projekte/AD_DA_Exp/AD_DA_Exp.runs/my_AD_DA_Exp_processing_system7_0_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source my_AD_DA_Exp_processing_system7_0_0.tcl -notrace

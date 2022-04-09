@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="top_hw_platform_2" key="programflash.hwplatform"/>
+	<item value="" key="top_hw_platform_2-offSet"/>
+	<item value="false" key="top_hw_platform_2-blankCheck"/>
+	<item value="" key="top_hw_platform_0-offSet"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Bases_System_07S/01_Bases_System_07S.sdk/HelloWorld/bootimage/BOOT.mcs" key="top_hw_platform_0-imgFile"/>
+	<item value="false" key="top_hw_platform_0-blankCheck"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Bases_System_07S/01_Bases_System_07S.sdk/jtag_flash_fsbl/Debug/jtag_flash_fsbl.elf" key="top_hw_platform_0-fsblFile"/>
+	<item value="Local" key="top_hw_platform_0-target"/>
+	<item value="Local" key="top_hw_platform_2-target"/>
+	<item value="false" key="top_hw_platform_2-verifyFlash"/>
+	<item value="qspi-x4-single" key="top_hw_platform_2-flashType"/>
+	<item value="false" key="top_hw_platform_0-verifyFlash"/>
+	<item value="qspi-x1-single" key="top_hw_platform_0-flashType"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/jtag_flash_fsbl/Debug/jtag_flash_fsbl.elf" key="top_hw_platform_2-fsblFile"/>
+	<item value="/home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/HelloWorld/bootimage/BOOT.mcs" key="top_hw_platform_2-imgFile"/>
+	<item value="Auto Detect" key="top_hw_platform_2-device"/>
+	<item value="Auto Detect" key="top_hw_platform_0-device"/>
+</section>

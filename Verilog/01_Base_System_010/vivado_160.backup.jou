@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Jan 24 21:01:22 2021
+# Process ID: 160
+# Current directory: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/01_Base_System_010
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1120 C:\Users\kibii\OneDrive\Studienkolleg\Vivado\01_Base_System_010\01_Base_System_010.xpr
+# Log file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/01_Base_System_010/vivado.log
+# Journal file: C:/Users/kibii/OneDrive/Studienkolleg/Vivado/01_Base_System_010\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kibii/OneDrive/Studienkolleg/Vivado/01_Base_System_010/01_Base_System_010.xpr
+update_compile_order -fileset sources_1

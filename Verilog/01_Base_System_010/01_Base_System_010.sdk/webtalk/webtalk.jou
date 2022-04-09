@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# 
+# Start of session at: Thu Oct 22 23:07:43 2020
+# Process ID: 2238
+# Current directory: /home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/webtalk/webtalk.log
+# Journal file: /home/pabele/programming/fpga/2018.3/Elektronische_Schaltungen/01_Base_System_010/01_Base_System_010.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
